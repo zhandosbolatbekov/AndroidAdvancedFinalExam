@@ -9,37 +9,43 @@
     <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent">
+        <ImageView
+            android:id="@+id/ivContactAvatar"
+            android:layout_marginTop="32dp"
+            android:layout_width="100dp"
+            android:layout_height="100dp" />
         <TextView
             android:id="@+id/tvContactInfoName"
-            android:layout_marginTop="32dp"
+            android:layout_below="@+id/ivContactAvatar"
+            android:layout_marginTop="16dp"
             android:layout_width="match_parent"
             android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
             android:layout_height="50dp" />
         <TextView
             android:id="@+id/tvContactInfoMobilePhone"
             android:layout_below="@+id/tvContactInfoName"
-            android:layout_marginTop="32dp"
+            android:layout_marginTop="16dp"
             android:layout_width="match_parent"
             android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
             android:layout_height="50dp" />
         <TextView
             android:id="@+id/tvContactInfoHomePhone"
             android:layout_below="@+id/tvContactInfoMobilePhone"
-            android:layout_marginTop="32dp"
+            android:layout_marginTop="16dp"
             android:layout_width="match_parent"
             android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
             android:layout_height="50dp" />
         <TextView
             android:id="@+id/tvContactInfoWorkPhone"
             android:layout_below="@+id/tvContactInfoHomePhone"
-            android:layout_marginTop="32dp"
+            android:layout_marginTop="16dp"
             android:layout_width="match_parent"
             android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
             android:layout_height="50dp" />
         <TextView
             android:id="@+id/tvContactInfoGroup"
             android:layout_below="@+id/tvContactInfoWorkPhone"
-            android:layout_marginTop="32dp"
+            android:layout_marginTop="16dp"
             android:layout_width="match_parent"
             android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
             android:layout_height="50dp" />

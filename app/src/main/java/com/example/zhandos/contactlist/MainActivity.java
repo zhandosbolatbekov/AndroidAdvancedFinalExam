@@ -46,8 +46,8 @@ public class MainActivity extends AppCompatActivity {
                         "87774074100",
                         "87774074100",
                         "87774074100",
-                        "https://www.google.kz/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiuhv6Y8ZbfAhUG1SwKHXekCvkQjRx6BAgBEAU&url=https%3A%2F%2Fwww.producthunt.com%2Fposts%2Favataaars&psig=AOvVaw3QhJzt-LbVCFPwc3CTJvIo&ust=1544587005063270",
-                        "1"
+                        "https://scrumandkanban.co.uk/wp-content/uploads/2013/07/DavidLowe.jpg",
+                        "My numbers"
                 )
         );
         contactList.add(
@@ -56,8 +56,8 @@ public class MainActivity extends AppCompatActivity {
                         "87774074100",
                         "87774074100",
                         "87774074100",
-                        "https://www.google.kz/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiuhv6Y8ZbfAhUG1SwKHXekCvkQjRx6BAgBEAU&url=https%3A%2F%2Fwww.producthunt.com%2Fposts%2Favataaars&psig=AOvVaw3QhJzt-LbVCFPwc3CTJvIo&ust=1544587005063270",
-                        "2"
+                        "https://scrumandkanban.co.uk/wp-content/uploads/2013/07/DavidLowe.jpg",
+                        "Friends"
                 )
         );
         showContactList(contactList);

@@ -46,7 +46,7 @@ public class MainActivity extends AppCompatActivity {
                         "87774074100",
                         "87774074100",
                         "87774074100",
-                        "https://scrumandkanban.co.uk/wp-content/uploads/2013/07/DavidLowe.jpg",
+                        "http://i.imgur.com/DvpvklR.png",
                         "My numbers"
                 )
         );
@@ -56,7 +56,7 @@ public class MainActivity extends AppCompatActivity {
                         "87774074100",
                         "87774074100",
                         "87774074100",
-                        "https://scrumandkanban.co.uk/wp-content/uploads/2013/07/DavidLowe.jpg",
+                        "http://i.imgur.com/DvpvklR.png",
                         "Friends"
                 )
         );
